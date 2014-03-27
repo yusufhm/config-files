@@ -1,0 +1,5 @@
+[user]
+	name = Yusuf Hasan Miyan
+	email = yusuf@thislittleduck.com
+[core]
+	excludesfile = /home/yusuf/.gitignore
